@@ -84,7 +84,7 @@ $ cmake ../
 $ make
 ```
 
-### How to run
+### How to run?
 ```
 ./kdtree [seed]
 ```
