@@ -17,7 +17,7 @@ Implementation of K-D tree in C++ programming language
 - A header file (custom). Library
 
 ## How do we actually use the K-D Tree class?
-- As you might have erad from the source above, the class included of the K-D Tree inputs a user-defined point type as its template parameter, a default parameter.
+- As you might have heard from the source above, the class included of the K-D Tree inputs a user-defined point type as its template parameter, a default parameter.
 - The point you pass has to be put through the following constraints : 
   - Implementation of operator[] <= accessor to its coordinates.
   - Static member variable DIM <= dimension of the input.
